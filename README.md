@@ -21,7 +21,7 @@ I'm **Umer Asif**, a Computer Science and Engineering student passionate about s
 
 ## Education
 
-- **International Information Systems BSc** at Technical University of Applied Sciences Augsburg (Expected graduation: October 2024)
+- **International Information Systems BSc** at Technical University of Applied Sciences Augsburg (Expected Starting Date: October 2024)
 - **BSc in Computer Science and Engineering** at University of Oulu (August 2023 - July 2024)
 
 ## Certifications
