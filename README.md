@@ -50,9 +50,7 @@ I'm **Umer Asif**, a Computer Science and Engineering student passionate about s
 - **Description:** A C# project developed for an extended reality course.
 - **Technologies Used:** C#
 
-### [Event Planner](https://github.com/UmerAsif-1/event_planner)
-- **Description:** A JavaScript-based event planning application, forked from IBM Developer Skills Network.
-- **Technologies Used:** JavaScript
+
 
 Feel free to check out my projects and connect with me on [LinkedIn](https://www.linkedin.com/in/umer-asif/)!
 
