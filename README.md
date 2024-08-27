@@ -50,7 +50,15 @@ I'm **Umer Asif**, a Computer Science and Engineering student passionate about s
 - **Description:** A C# project developed for an extended reality course.
 - **Technologies Used:** C#
 
+### [ExpressBookReviews](https://github.com/UmerAsif-1/ExpressBookReviews)
+- **Description:** A web application built with Node.js and Express.js for managing and reviewing books. It showcases Umer's back-end development skills and ability to build dynamic web applications.
+- **Technologies Used:** Node.js, Express.js
 
+### [Event Planner](https://github.com/UmerAsif-1/eventplanner)
+- **Description:** A JavaScript-based project, originally forked from IBM, focused on creating an event planning application. It involves both front-end and back-end development, showcasing Umer's versatility in full-stack development.
+- **Technologies Used:** JavaScript
 
+## Contact Me
 Feel free to check out my projects and connect with me on [LinkedIn](https://www.linkedin.com/in/umer-asif/)!
+
 
