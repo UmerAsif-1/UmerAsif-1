@@ -49,7 +49,11 @@ I'm **Umer Asif**, a Computer Science and Engineering student passionate about s
 ### [XR Final Homework](https://github.com/UmerAsif-1/XR-finalHW)
 - **Description:** A C# project developed for an extended reality course.
 - **Technologies Used:** C#
-- 
+
+### [E-PlantShopping](https://github.com/UmerAsif-1/e-plantShopping)
+- **Description:** E-PlantShopping is an online plant shop where users can browse a variety of house plants, add them to their cart, and complete their purchase. The application features a landing page, product listing, shopping cart functionality, and different sections for plant categories. The cart page includes dynamic features such as quantity updates, cost calculations, and the ability to continue shopping or checkout. This project incorporates skills in state management, and event handling.
+- **Technologies Used:** HTML, CSS, JavaScript
+ 
 ### [ExpressBookReviews](https://github.com/UmerAsif-1/ExpressBookReviews)
 - **Description:** ExpressBookReviews is a dynamic web application for managing and reviewing books, developed using Node.js and Express.js. It showcases my ability to build robust server-side applications,& handle routing.
 - **Technologies Used:** Node.js, Express.js
