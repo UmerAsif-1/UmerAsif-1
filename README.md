@@ -58,7 +58,6 @@ I'm **Umer Asif**, a Computer Science and Engineering student passionate about s
 - **Description:** ExpressBookReviews is a dynamic web application for managing and reviewing books, developed using Node.js and Express.js. It showcases my ability to build robust server-side applications,& handle routing.
 - **Technologies Used:** Node.js, Express.js
 
-Feel free to copy and use this in your profile!
 
 ## Contact Me
 Feel free to check out my projects and connect with me on [LinkedIn](https://www.linkedin.com/in/umer-asif/)!
