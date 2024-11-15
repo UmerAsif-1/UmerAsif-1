@@ -21,14 +21,12 @@ I'm **Umer Asif**, a Computer Science and Engineering student passionate about s
 
 ## Education
 
-- **International Information Systems BSc** at Technical University of Applied Sciences Augsburg (Expected Starting Date: October 2024)
+
 - **BSc in Computer Science and Engineering** at University of Oulu (August 2023 - July 2024)
 
 ## Certifications
 
-- IBM Full Stack JavaScript Developer Professional Certificate
-- AWS Certified Developer - Associate
-- Microsoft Certified: Azure Developer Associate (AZ-204)
+- IBM JavaScript Developer  Certificate
 - AWS Certified Solution Architect - Associate
 - AWS Certified Cloud Practitioner
 
