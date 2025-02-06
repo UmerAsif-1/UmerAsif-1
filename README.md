@@ -1,7 +1,3 @@
-Here’s the updated and enhanced version of your GitHub profile README:
-
----
-
 # Hi there! 👋
 
 I'm **Umer Asif**, an Information Processing student passionate about cloud technologies, DevOps, and DevSecOps.
